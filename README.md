@@ -23,3 +23,5 @@ docker-compose up
 ```
 
 Traefik Dashboard: http://fastapi.localhost:8080/
+
+![GitHub Logo](https://res.cloudinary.com/dazyxzm1e/image/upload/v1622719820/traefik_lr84o1.png)
